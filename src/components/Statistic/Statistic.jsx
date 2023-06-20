@@ -20,3 +20,4 @@ Statistic.propTypes = {
   neutral: PropTypes.number,
   bad: PropTypes.number,
 };
+export default Statistic;
